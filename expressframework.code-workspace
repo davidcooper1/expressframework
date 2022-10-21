@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "packages/core"
+		},
+		{
+			"path": "packages/examples"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "core\\.yarn\\sdks\\typescript\\lib"
+	}
+}
